@@ -1,0 +1,16 @@
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\bin\Debug\Calculate_ALE_ROI.exe.config
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\bin\Debug\Calculate_ALE_ROI.exe
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\bin\Debug\Calculate_ALE_ROI.pdb
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.csproj.AssemblyReference.cache
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\View\MainWindow.g.cs
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\App.g.cs
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI_MarkupCompile.cache
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI_MarkupCompile.lref
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\View\MainWindow.baml
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.g.resources
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.Properties.Resources.resources
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.csproj.GenerateResource.cache
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.exe
+D:\VisualStudio\Calculate_ALE_ROI\Calculate_ALE_ROI\obj\Debug\Calculate_ALE_ROI.pdb
